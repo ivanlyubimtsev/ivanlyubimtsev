@@ -1,16 +1,19 @@
-## Hi there 👋
+👋 Hi, I'm Lyubimtsev Ivan!
 
-<!--
-**ivanlyubimtsev/ivanlyubimtsev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Graduated from the National Research Nuclear University MEPhI (Moscow Engineering Physics Institute) with a degree in nuclear physics, specializing in ultra-high-energy cosmic rays.  
 
-Here are some ideas to get you started:
+🤖 Currently studying robotics at Skoltech and working on projects in computer vision and intelligent systems.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🏆 Finalist of the "I am a Professional" Olympiad in Artificial Intelligence and Nuclear Physics.  
+
+🤖 Finalist of the Eurobot robotics competition.  
+- [Link 1](https://habr.com/ru/articles/836522/)  
+- [Link 2](https://habr.com/ru/articles/839368/)  
+
+📫 Let’s connect:  
+
+✉️ Email:  
+- ivan.lyubimtsev@skoltech.ru  
+- ivanlyubimtsev.ru@yandex.ru
+
+💬 Telegram: [https://t.me/ivanlyubimtsev](https://t.me/ivanlyubimtsev)
