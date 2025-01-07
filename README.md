@@ -10,8 +10,6 @@
 - [Link 1](https://habr.com/ru/articles/836522/)  
 - [Link 2](https://habr.com/ru/articles/839368/)  
 
-📫 Let’s connect:  
-
 ✉️ Email:  
 - ivan.lyubimtsev@skoltech.ru  
 - ivanlyubimtsev.ru@yandex.ru
