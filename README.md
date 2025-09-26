@@ -8,7 +8,7 @@ Finalist of the Eurobot robotics competition.
 - [Link 2](https://habr.com/ru/articles/839368/)  
 
 Email:  
-- ivan.lyubimtsev@skoltech.ru  
+- i.lyubimtsev@skoltech.ru  
 - ivanlyubimtsev.ru@yandex.ru
 
 Telegram: [https://t.me/ivanlyubimtsev](https://t.me/ivanlyubimtsev)
